@@ -1,6 +1,6 @@
 # Unity specific ignores
 00_Assets/
-01_Projects/
+02_Exports
 Library/
 Temp/
 Logs/
